@@ -1,4 +1,4 @@
-# Glove-
+# Glove-Spark
 Glove For Spark 
 Pennington et al. proposes a novel word representation algorithm called GloVe (Global Vectors
 for Word Representation) that synthesizes the two primary model families for learning
